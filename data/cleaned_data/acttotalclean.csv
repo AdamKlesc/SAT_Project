@@ -1,0 +1,52 @@
+,state,participation17,composite17,participation18,composite18,participation19,composite19,gdp_rank_19,act_free,sat_free,population_rank
+0,National,0.6,21.0,,,0.52,20.7,,False,False,
+1,Alabama,1.0,19.2,1.0,19.1,1.0,18.9,46.0,True,False,24.0
+2,Alaska,0.65,19.8,0.33,20.8,0.38,20.1,4.0,False,False,48.0
+3,Arizona,0.62,19.7,0.66,19.2,0.73,19.0,41.0,False,False,14.0
+4,Arkansas,1.0,19.4,1.0,19.4,1.0,19.3,49.0,True,False,33.0
+5,California,0.31,22.8,0.27,22.7,0.23,22.6,6.0,False,False,1.0
+6,Colorado,1.0,20.8,0.3,23.9,0.27,23.8,15.0,False,True,20.0
+7,Connecticut,0.31,25.2,0.26,25.6,0.22,25.5,7.0,False,True,29.0
+8,Delaware,0.18,24.1,0.17,23.8,0.13,24.1,10.0,False,True,45.0
+9,District of Columbia,0.32,24.2,0.32,23.6,0.32,23.5,1.0,False,True,49.0
+10,Florida,0.73,19.8,0.66,19.9,0.54,20.1,40.0,False,False,3.0
+11,Georgia,0.55,21.4,0.53,21.4,0.49,21.4,31.0,False,False,8.0
+12,Hawaii,0.9,19.0,0.89,18.9,0.8,19.0,17.0,True,False,40.0
+13,Idaho,0.38,22.3,0.36,22.3,0.31,22.5,47.0,False,True,38.0
+14,Illinois,0.93,21.4,0.43,23.9,0.35,24.3,13.0,False,True,6.0
+15,Indiana,0.35,22.6,0.32,22.5,0.29,22.5,33.0,False,False,17.0
+16,Iowa,0.67,21.9,0.68,21.8,0.66,21.6,21.0,False,False,32.0
+17,Kansas,0.73,21.7,0.71,21.6,0.72,21.2,22.0,False,False,35.0
+18,Kentucky,1.0,20.0,1.0,20.2,1.0,19.8,44.0,True,False,26.0
+19,Louisiana,1.0,19.5,1.0,19.2,1.0,18.8,28.0,True,False,25.0
+20,Maine,0.08,24.3,0.07,24.0,0.06,24.3,43.0,False,True,42.0
+21,Maryland,0.28,23.6,0.31,22.5,0.28,22.3,12.0,False,False,19.0
+22,Massachusetts,0.29,25.4,0.25,25.5,0.21,25.5,2.0,False,False,16.0
+23,Michigan,0.29,24.1,0.22,24.2,0.19,24.4,37.0,False,True,10.0
+24,Minnesota,1.0,21.5,0.99,21.3,0.95,21.4,16.0,False,False,22.0
+25,Mississippi,1.0,18.6,1.0,18.6,1.0,18.4,50.0,True,False,34.0
+26,Missouri,1.0,20.4,1.0,20.0,0.82,20.8,38.0,False,False,18.0
+27,Montana,1.0,20.3,1.0,20.0,1.0,19.8,42.0,True,False,43.0
+28,Nevada,1.0,17.8,1.0,17.7,1.0,17.9,32.0,False,False,31.0
+29,New Hampshire,0.18,25.5,0.16,25.1,0.14,25.0,18.0,False,True,41.0
+30,New Jersey,0.34,23.9,0.31,23.7,0.25,24.2,11.0,False,False,11.0
+31,New Mexico,0.66,19.7,0.67,19.4,0.63,19.3,39.0,False,False,36.0
+32,New York,0.31,24.2,0.27,24.5,0.22,24.5,3.0,False,False,4.0
+33,North Carolina,1.0,19.1,1.0,19.1,1.0,19.0,35.0,True,False,9.0
+34,North Dakota,0.98,20.3,0.98,20.3,0.96,19.9,5.0,True,False,47.0
+35,Ohio,0.75,22.0,1.0,20.3,1.0,20.0,25.0,True,True,7.0
+36,Oklahoma,1.0,19.4,1.0,19.3,1.0,18.9,30.0,True,True,28.0
+37,Oregon,0.4,21.8,0.42,21.3,0.42,21.1,24.0,False,False,27.0
+38,Pennsylvania,0.23,23.7,0.2,23.5,0.17,23.6,20.0,False,False,5.0
+39,Rhode Island,0.21,24.0,0.15,24.2,0.12,24.7,27.0,False,True,44.0
+40,South Carolina,1.0,18.7,1.0,18.3,0.78,18.8,45.0,True,True,23.0
+41,South Dakota,0.8,21.8,0.77,21.9,0.75,21.6,23.0,False,False,46.0
+42,Tennessee,1.0,19.8,1.0,19.6,1.0,19.4,36.0,True,True,15.0
+43,Texas,0.45,20.7,0.45,20.7,0.39,20.5,14.0,False,False,2.0
+44,Utah,1.0,20.3,1.0,20.4,1.0,20.3,29.0,True,False,30.0
+45,Vermont,0.29,23.6,0.24,24.1,0.2,24.1,34.0,False,False,50.0
+46,Virginia,0.29,23.8,0.24,23.9,0.21,24.0,19.0,False,False,12.0
+47,Washington,0.29,21.9,0.24,22.2,0.24,22.1,8.0,False,False,13.0
+48,West Virginia,0.69,20.4,0.65,20.3,0.49,20.8,48.0,False,True,39.0
+49,Wisconsin,1.0,20.5,1.0,20.5,1.0,20.3,26.0,True,False,21.0
+50,Wyoming,1.0,20.2,1.0,20.0,1.0,19.8,9.0,True,False,51.0
